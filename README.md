@@ -179,12 +179,9 @@ The frontend runs on `http://localhost:5173`.
 
 ## Demo Video
 
-<video controls width="100%">
-	<source src="frontend/public/videos/demo.mp4" type="video/mp4">
-	Your browser does not support the video tag.
-</video>
+[![Demo Video](frontend/public/images/thumbnail.png)](frontend/public/videos/demo.mp4)
 
-
+Click the thumbnail above to open the demo video.
 
 ## Notes
 

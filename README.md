@@ -179,16 +179,12 @@ The frontend runs on `http://localhost:5173`.
 
 ## Demo Video
 
-Place your demo video in `videos/demo.mp4` and GitHub will be able to render it from the repository.
-
 <video controls width="100%">
-	<source src="videos/demo.mp4" type="video/mp4">
+	<source src="frontend/public/videos/demo.mp4" type="video/mp4">
 	Your browser does not support the video tag.
 </video>
 
-If GitHub does not render the video inline for your repo view, use the same relative path as a normal link:
 
-- [Demo Video](videos/demo.mp4)
 
 ## Notes
 
